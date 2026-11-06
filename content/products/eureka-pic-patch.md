@@ -26,4 +26,4 @@ Please describe your specific issue to me so that I can check if it matches the 
 
 Questions or ready to order? Contact me via e-mail at [hello@itty.nl](mailto:hello@itty.nl) or reach out on [LinkedIn](https://www.linkedin.com/in/daviddernederlanden/).
 
-The patch itself is open source, available here: [eureka-pic16f1936-patch](https://github.com/randommen96/eureka-pic16f1936-patch)
+The patch itself is open source, available here: [eureka-pic16f1936-patch](https://github.com/ddernederlanden/eureka-pic16f1936-patch)
