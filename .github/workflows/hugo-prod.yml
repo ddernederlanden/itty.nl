@@ -14,7 +14,7 @@ permissions:
   contents: read
 
 env:
-  HUGO_VERSION: 0.145.0
+  HUGO_VERSION: 0.169.0
   SITE_BASEURL: https://itty.nl
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
