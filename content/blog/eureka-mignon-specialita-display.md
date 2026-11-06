@@ -102,7 +102,7 @@ It even validates if your dump is the same as mine. Most likely it will be, as t
 
 If you can't or don't want to flash it yourself, you can also contact me and we'll figure out what's possible.
 
-My take at fixing this bug in full technical detail can be found [here](https://github.com/randommen96/eureka-pic16f1936-patch). Beware, it is made with AI and as we say in Dutch, *"garantie tot de voordeur"*, or maybe *"it runs on my machine"* is more applicable here...
+My take at fixing this bug in full technical detail can be found [here](https://github.com/ddernederlanden/eureka-pic16f1936-patch). Beware, it is made with AI and as we say in Dutch, *"garantie tot de voordeur"*, or maybe *"it runs on my machine"* is more applicable here...
 
 ## What next
 
